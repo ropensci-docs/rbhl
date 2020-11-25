@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d3e5283dc8ff12be9003d2e8c96bd0631610cc2c",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-25 16:38:16",
+    "files": 2,
+    "merge": false,
+    "message": "add gh actions badge to readme\n"
+  },
+  "remote": "https://github.com/ropensci/rbhl",
+  "pkg": "rbhl"
+}

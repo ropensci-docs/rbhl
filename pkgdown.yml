@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  rbhl: rbhl.html
+last_built: 2021-03-11T09:22Z
+urls:
+  reference: https://docs.ropensci.org/rbhl/reference
+  article: https://docs.ropensci.org/rbhl/articles
+
